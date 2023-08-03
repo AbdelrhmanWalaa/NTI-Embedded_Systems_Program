@@ -30,3 +30,9 @@ In case of an incorrect password, the system triggers a door alarm and sends a n
 
 ## Video
 > [Smart Home System](https://drive.google.com/file/d/1SXWeAhk9P6mm7RKe9La4XVz1osWHkWwN/view?usp=sharing)
+
+## Circuit Schematic
+
+<p align="center">
+  <img src="https://github.com/AbdelrhmanWalaa/NTI-Embedded_Systems_Program/assets/44446382/e893b10d-204e-4257-8d45-5cf31ca82fa2" alt="Circuit Schematic">
+</p>
