@@ -27,11 +27,11 @@ The Temperature Control System is an intelligent solution designed to control ap
 - **Alerts and Notifications:** The system can send alerts or notifications to users when the temperature exceeds specified limits or when the system requires attention.
 
 ## Video
-> [Temperature Control System]()
+> [Temperature Control System](https://drive.google.com/file/d/1IjCfpCc8Nk5V_kODn0orIhgev4nJ7QkE/view?usp=sharing)
 
 ## Circuit Schematic
 
 <p align="center">
-  <img src="https://github.com/AbdelrhmanWalaa/NTI-Embedded_Systems_Program/assets/44446382/292cb148-5231-4a04-8ddf-7963a8cb6dae" alt="Circuit Schematic">
+  <img src="https://github.com/AbdelrhmanWalaa/NTI-Embedded_Systems_Program/assets/44446382/9b96136b-65bc-4e17-a3c4-aa6ff3613ab3" alt="Circuit Schematic">
 </p>
 
