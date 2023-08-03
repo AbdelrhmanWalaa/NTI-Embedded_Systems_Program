@@ -25,8 +25,8 @@ In case of an incorrect password, the system triggers a door alarm and sends a n
 ## Contributors
 
 > [Abdelrhman Walaa](https://github.com/AbdelrhmanWalaa) |
-> [Moamen Mamdouh]() |
-> [Mohamed Ahmed]()
+> Moamen Mamdouh |
+> Mohamed Ahmed
 
 ## Video
 > [Smart Home System](https://drive.google.com/file/d/1SXWeAhk9P6mm7RKe9La4XVz1osWHkWwN/view?usp=sharing)
