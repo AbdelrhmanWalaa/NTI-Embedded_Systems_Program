@@ -2,7 +2,7 @@
 
 ![NTI - Embedded Systems Program](https://github.com/AbdelrhmanWalaa/NTI-Embedded_Systems_Program/assets/44446382/a37d6b2d-5432-40d1-9f90-4376beac5528)
 
-# Overview
+## Overview
 
 Welcome to our comprehensive training program, comprising four modules that cover essential aspects of embedded systems development. In this README.md file, we will provide an overview of each module and the key concepts you will learn throughout the course.
 
