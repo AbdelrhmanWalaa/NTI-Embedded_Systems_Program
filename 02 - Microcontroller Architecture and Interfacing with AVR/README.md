@@ -7,6 +7,7 @@ Welcome to the AVR Architecture and Embedded Systems Programming README! In this
 ## Overview
 
 The course covers the following key modules and highlights:
+
 1. **AVR Architecture:** Gain a solid understanding of the AVR microcontroller architecture, its features, and capabilities.
 
 2. **General Purpose Input Output Programming (GPIO):** Learn how to program GPIO pins to control input and output operations, enabling interaction with external devices.
