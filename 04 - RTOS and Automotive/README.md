@@ -1,6 +1,6 @@
 # RTOS and Automotive
 
-![image](https://github.com/AbdelrhmanWalaa/NTI-Embedded_Systems_Program/assets/44446382/9c841211-c84b-463a-bcb1-aa63ca9965ad)
+![image](https://github.com/AbdelrhmanWalaa/NTI-Embedded_Systems_Program/assets/44446382/a6a9a732-63d2-47f7-abd8-337cac844e83)
 
 Welcome to the Real-Time Operating Systems (RTOS) and Automotive Embedded Systems course! This comprehensive course is designed to provide you with a solid understanding of RTOS concepts, real-time systems, and their practical application in the automotive industry. Throughout this course, you will delve into the fundamentals of RTOS, explore various synchronization mechanisms, and gain expertise in designing automotive embedded systems.
 
