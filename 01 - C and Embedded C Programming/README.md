@@ -7,6 +7,7 @@ Welcome to the C Programming for Embedded Systems course! This comprehensive cou
 Whether you are new to C or looking to enhance your embedded programming and hardware-software integration knowledge, this course is an excellent full-scope primer.
 
 ## Overview
+
 The course covers the following key modules and highlights:
 
 1. **Introduction to C Programming:** Get introduced to the basics of the C programming language, laying the foundation for further learning.
